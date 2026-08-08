@@ -1,0 +1,32 @@
+User-Agent: GPTBot
+User-Agent: ChatGPT-User
+User-Agent: OAI-SearchBot
+User-Agent: CCBot
+User-Agent: ClaudeBot
+User-Agent: anthropic-ai
+User-Agent: Claude-Web
+User-Agent: Google-Extended
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: Bytespider
+User-Agent: Amazonbot
+User-Agent: Applebot-Extended
+User-Agent: Meta-ExternalAgent
+User-Agent: meta-externalagent
+User-Agent: FacebookBot
+User-Agent: cohere-ai
+User-Agent: cohere-training-data-crawler
+User-Agent: Diffbot
+User-Agent: ImagesiftBot
+User-Agent: Omgilibot
+User-Agent: Omgili
+User-Agent: YouBot
+User-Agent: Timpibot
+User-Agent: AI2Bot
+User-Agent: Scrapy
+Disallow: /
+
+User-Agent: *
+Allow: /
+
+Sitemap: https://edenincorporated.com/sitemap.xml
